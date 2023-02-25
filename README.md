@@ -9,3 +9,6 @@ here is some important colors that you can use(*with NumCode) </pre>
 
 + For opening CourseCode Click **Main<sub>.cpp</sub>**
 - For download Code::Blocks: **https://www.codeblocks.org/downloads/**
+
+
+ _**v2 with new colors comming soon...**_
